@@ -13,6 +13,8 @@ var apnProvider = new apn.Provider({
          production: true
 
     });
+
+//sdvsfsdfsdf
 var gcm = require('node-gcm');
 //var sender = new gcm.Sender('AIzaSyCCKNgm9SgRuEnTlxvUVlXAuV8obSR1J4U');
 var sender = new gcm.Sender('AIzaSyDdK4zYtqVGNHR1oLVn8H-HYdxTImnglyQ');
